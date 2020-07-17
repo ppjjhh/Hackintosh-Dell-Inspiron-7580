@@ -1,7 +1,7 @@
 # Hackintosh-Dell-Inspiron-7580
 
-###it work.
+### it work.
 
-###opencore version 0.5.9
+### opencore version 0.5.9
 
-###macOS version 10.15.6
+### macOS version 10.15.6
