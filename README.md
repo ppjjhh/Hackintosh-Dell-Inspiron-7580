@@ -5,3 +5,5 @@
 ### opencore version 0.5.9
 
 ### macOS version 10.15.6
+
+### backlight shortcut: Fn + S or Fn + B
