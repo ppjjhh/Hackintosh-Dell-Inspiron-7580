@@ -12,15 +12,12 @@
 
 > Bios setting
 
-disable | Enable |
-:-:|:-|
-Fast Boot|VT-x	|
-CFG Lock (MSR 0xE2 write protection)|Above 4G decoding|
-VT-d	|Hyper Threading|
-CSM	|Execute Disable Bit|
- |EHCI/XHCI Hand-off|
- |OS type: Windows 8.1/10|
- |Legacy RTC Device|
+disable |
+:-:|
+Fast Boot|
+CFG Lock (MSR 0xE2 write protection)|
+VT-d	|
+
 
 ### opencore version 0.5.9
 
