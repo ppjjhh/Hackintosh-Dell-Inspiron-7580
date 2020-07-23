@@ -51,4 +51,4 @@
 ## issue
 
 * Sleep (so complex that i have no time to fix it. : ) 
-
+* the acpi file is my computer's native file, so some computer may not work well. 
