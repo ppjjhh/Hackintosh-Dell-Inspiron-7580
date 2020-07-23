@@ -33,7 +33,7 @@
 | OS type: Windows 8.1/10 |
 |    Legacy RTC Device    |
 
-## Running well
+## work
 
 * uhd620
 * audio
@@ -47,7 +47,7 @@
 * cpu frequency & power & temperature & utilization
 * volume and backlight shortcut (Fn + S or Fn + B)
 
-## issue
-
-* Sleep (so complex that i have no time to fix it. : ) 
+## not work
+* mx150 (blame nvidia)
+* Sleep (so complex that i have no time to fix it. :) 
 * the acpi file is my computer's native file, so some computer may not work well. 
