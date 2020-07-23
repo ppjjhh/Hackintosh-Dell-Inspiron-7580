@@ -1,6 +1,21 @@
 # Hackintosh-Dell-Inspiron-7580
 
-### it work.
+### cpu:i5-8265u
+
+### gpu:uhd620, mx150(No drive)
+
+### Hard disk:Hikvision C2000
+
+### audio: realtak ALC 295
+
+### network: DW1820a
+
+> Bios setting
+
+disable | Enable |
+:-:|:-|-:
+tony|20|男
+lucy|18|女
 
 ### opencore version 0.5.9
 
