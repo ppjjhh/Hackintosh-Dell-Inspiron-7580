@@ -13,9 +13,9 @@
 > Bios setting
 
 disable | Enable |
-:-:|:-|-:
-tony|20|男
-lucy|18|女
+:-:|:-|
+tony|20|
+lucy|18|
 
 ### opencore version 0.5.9
 
