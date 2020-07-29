@@ -51,3 +51,6 @@
 * mx150 (blame nvidia)
 * Sleep (so complex that i have no time to fix it. :) 
 * the acpi file is my computer's native file, so some computer may not work well. 
+
+## Reference
+https://blog.daliansky.net/
