@@ -53,4 +53,5 @@
 * the acpi file is my computer's native file, so some computer may not work well. 
 
 ## Reference
-https://blog.daliansky.net/
+* https://blog.daliansky.net/
+* https://github.com/daliansky/Hackintosh
