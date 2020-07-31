@@ -55,3 +55,43 @@
 ## Reference
 * https://blog.daliansky.net/
 * https://github.com/daliansky/Hackintosh
+
+## How to Unlock CFG
+
+1. Use the bootx64.efi to boot your computer.
+
+2. Type in **setup_var 0x5C3** to check the CFGLock status.   PS:  *0x01*=lock, *0x00*=unlock
+
+3. Type in **setup_var 0x5C3 0x00** to unlock the CFGLock.
+
+4. Type in **setup_var 0x5C3** again to confirm if it is succeed.  PS: It means you are succeed when the screen shows this sentence:  **offset 0x5C3 is 0x00**.
+
+5. Type in **exit** to restart your computer. 
+
+   ![Screen Shot 2020-07-31 at 21.33.56](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/Screen Shot 2020-07-31 at 21.33.56.png)
+
+   ![IMG_20200731_213606](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213606.jpg)
+
+   ![IMG_20200731_213617](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213617.jpg)
+
+   ![IMG_20200731_213627](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213627.jpg)
+
+   ![IMG_20200731_213705](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213705.jpg)
+
+   ![IMG_20200731_213711](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213711.jpg)
+
+   ![IMG_20200731_213733](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213733.jpg)
+
+   ![IMG_20200731_213744](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213744.jpg)
+
+   ![IMG_20200731_213750](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213750.jpg)
+
+   ![IMG_20200731_213800](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213800.jpg)
+
+   ![IMG_20200731_213805](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213805.jpg)
+
+   ![IMG_20200731_213854](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213854.jpg)
+
+   ![IMG_20200731_213939](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213939.jpg)
+
+   
