@@ -68,30 +68,30 @@
 
 5. Type in **exit** to restart your computer. 
 
-   ![Screen Shot 2020-07-31 at 21.33.56](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213606.jpg)
+   ![Folder hierarchy](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/ScreenShot.png)
 
-   ![IMG_20200731_213606](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213606.jpg)
+   ![Step 1](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/1.jpg)
 
-   ![IMG_20200731_213617](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213617.jpg)
+   ![Step 2](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/2.jpg)
 
-   ![IMG_20200731_213627](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213627.jpg)
+   ![Step 3](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/3.jpg)
 
-   ![IMG_20200731_213705](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213705.jpg)
+   ![Step 4](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/4.jpg)
 
-   ![IMG_20200731_213711](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213711.jpg)
+   ![Step 5](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/5.jpg)
 
-   ![IMG_20200731_213733](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213733.jpg)
+   ![Step 6](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/6.jpg)
 
-   ![IMG_20200731_213744](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213744.jpg)
+   ![Step 7](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/7.jpg)
 
-   ![IMG_20200731_213750](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213750.jpg)
+   ![Step 8](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/8.jpg)
 
-   ![IMG_20200731_213800](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213800.jpg)
+   ![Step 9](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/9.jpg)
 
-   ![IMG_20200731_213805](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213805.jpg)
+   ![Step 10](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/10.jpg)
 
-   ![IMG_20200731_213854](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213854.jpg)
+   ![Step 11](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/11.jpg)
 
-   ![IMG_20200731_213939](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213939.jpg)
+   ![Step 12](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/12.jpg)
 
    
