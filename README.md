@@ -68,7 +68,7 @@
 
 5. Type in **exit** to restart your computer. 
 
-   ![Screen Shot 2020-07-31 at 21.33.56](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/image/Screen Shot 2020-07-31 at 21.33.56.png)
+   ![Screen Shot 2020-07-31 at 21.33.56](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213606.jpg)
 
    ![IMG_20200731_213606](/Volumes/Data/GithubRepo/EFI/Hackintosh-Dell-Inspiron-7580/image/IMG_20200731_213606.jpg)
 
