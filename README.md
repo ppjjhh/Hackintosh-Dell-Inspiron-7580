@@ -94,4 +94,6 @@
 
    ![Step 12](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/12.jpeg)
 
+   ![Step 13](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/13.jpeg)
+   
    
