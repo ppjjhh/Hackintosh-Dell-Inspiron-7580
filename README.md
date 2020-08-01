@@ -68,30 +68,30 @@
 
 5. Type in **exit** to restart your computer. 
 
-   ![Folder hierarchy](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/ScreenShot.png)
+   ![Folder hierarchy](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/ScreenShot.jpeg)
 
-   ![Step 1](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/1.jpg)
+   ![Step 1](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/1.jpeg)
 
-   ![Step 2](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/2.jpg)
+   ![Step 2](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/2.jpeg)
 
-   ![Step 3](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/3.jpg)
+   ![Step 3](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/3.jpeg)
 
-   ![Step 4](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/4.jpg)
+   ![Step 4](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/4.jpeg)
 
-   ![Step 5](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/5.jpg)
+   ![Step 5](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/5.jpeg)
 
-   ![Step 6](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/6.jpg)
+   ![Step 6](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/6.jpeg)
 
-   ![Step 7](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/7.jpg)
+   ![Step 7](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/7.jpeg)
 
-   ![Step 8](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/8.jpg)
+   ![Step 8](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/8.jpeg)
 
-   ![Step 9](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/9.jpg)
+   ![Step 9](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/9.jpeg)
 
-   ![Step 10](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/10.jpg)
+   ![Step 10](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/10.jpeg)
 
-   ![Step 11](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/11.jpg)
+   ![Step 11](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/11.jpeg)
 
-   ![Step 12](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/12.jpg)
+   ![Step 12](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/12.jpeg)
 
    
