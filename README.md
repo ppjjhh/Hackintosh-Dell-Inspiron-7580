@@ -70,8 +70,8 @@
 
 5. 输入 **exit** 退出此界面并重启
 
-###下面的图片是关于禁用CFG的，如果加载不出来，多刷新几次就好了
-   
+## 下面的图片是关于禁用CFG的，如果加载不出来，多刷新几次就好了
+
 
    ![Folder hierarchy](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/ScreenShot.jpeg)
 
@@ -98,7 +98,7 @@
    ![Step 11](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/11.jpeg)
 
    ![Step 12](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/12.jpeg)
-   
+
    ![Step 13](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/13.jpeg)
-   
+
    
