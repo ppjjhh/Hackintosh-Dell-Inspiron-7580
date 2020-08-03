@@ -1,23 +1,23 @@
-# 黑苹果-Dell-Inspiron-7580
+# Hackintosh-Dell-Inspiron-7580
 
-## 语言: 简体中文或[English](README_en.md)
+## 语言: English或[简体中文](README.md)
 
-## opencore 版本 0.6.0
+## opencore version 0.6.0
 
-## macOS 版本 10.15.6
+## macOS version 10.15.6
 
-## 笔记本信息
+## Computer Info
 
 |    cpu    |    i5-8265u     |
 | :-------: | :-------------: |
 |    gpu    |     uhd620      |
-| 硬盘 | Hikvision C2000 |
-|   声卡   | realtak ALC 295 |
-|  网卡  |     DW1820a     |
+| Hard disk | Hikvision C2000 |
+|   audio   | realtak ALC 295 |
+|  network  |     DW1820a     |
 
-## Bios 设置 (有些dell笔记本没有的设置就别管它)
+## Bios setting (Ignore it if your bios don't have these item)
 
-|               禁用                |
+|               Disable                |
 | :----------------------------------: |
 |              Fast Boot               |
 | CFG Lock (MSR 0xE2 write protection) |
@@ -25,7 +25,7 @@
 |                 CSM                  |
 |              Intel SGX               |
 
-|         启用          |
+|         Enable          |
 | :---------------------: |
 |          VT-x           |
 |    Above 4G decoding    |
@@ -35,40 +35,40 @@
 | OS type: Windows 8.1/10 |
 |    Legacy RTC Device    |
 
-## 正常工作
+## work
 
-* 核显
-* 声卡
-* hdmi (热插拔会自动重启，不知道怎么回事)
-* 所有的usb插槽和type-c  (type-c可以用来当充电孔，视频输出没试过)
-* 有线网卡 
-* wifi (原生网卡不可以，必须要换别的网卡才行，我换的是1820a)
-* 触控板
-* 电量显示
-* 摄像头
-* cpu变频，gpu变频
-* 音量快捷键和背光快捷键 (背光快捷键是这个：Fn + S 或者 Fn + B，F11、F12的要改acpi，我懒)
+* uhd620
+* audio
+* hdmi (sometime it will cause restart when you Hot Swap)
+* All usb and type-c (you can use this slot to charge your computer)
+* network (Wired network)
+* wifi (you must change the native wireless network adapter)
+* Trackpad
+* battery and power display
+* camera
+* cpu frequency & power & temperature & utilization
+* volume and backlight shortcut (Fn + S or Fn + B)
 
-## 不正常工作
-* mx150 (笔记本的英伟达显卡基本无法驱动)
-* 睡眠 (这个东西有点复杂，本人电脑基本没怎么用这个功能，所以没管他) 
-* 这个acpi文件是我自己电脑的原生acpi，有些电脑可能用不了，你可以提取自己的试试
+## not work
+* mx150 (blame nvidia)
+* Sleep (so complex that i have no time to fix it. :) 
+* the acpi file is my computer's native file, so some computer may not work well. 
 
-## 参考资料
-* https://blog.daliansky.net/ 
+## Reference
+* https://blog.daliansky.net/
 * https://github.com/daliansky/Hackintosh
 
-## 怎样禁用CFG
+## How to Unlock CFG
 
-1. 使用 bootx64.efi 启动你的电脑  (shell 压缩文件)
+1. Use the bootx64.efi to boot your computer.
 
-2. 输入 **setup_var 0x5C3** 检查CFG是否已被禁用 PS:  *0x01*=启用, *0x00*=禁用
+2. Type in **setup_var 0x5C3** to check the CFGLock status.   PS:  *0x01*=lock, *0x00*=unlock
 
-3. 输入 **setup_var 0x5C3 0x00** 禁用CFG
+3. Type in **setup_var 0x5C3 0x00** to unlock the CFGLock.
 
-4. 再次输入 **setup_var 0x5C3** 看是否已被禁用(参考2).  PS: 看到这句话 **offset 0x5C3 is 0x00** 就说明你成功禁用掉CFG了
+4. Type in **setup_var 0x5C3** again to confirm if it is succeed.  PS: It means you are succeed when the screen shows this sentence:  **offset 0x5C3 is 0x00**.
 
-5. 输入 **exit** 退出此界面并重启
+5. Type in **exit** to restart your computer. 
 
    ![Folder hierarchy](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/ScreenShot.jpeg)
 
