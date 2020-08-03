@@ -1,6 +1,6 @@
 # Hackintosh-Dell-Inspiron-7580
 
-## opencore version 0.5.9
+## opencore version 0.6.0
 
 ## macOS version 10.15.6
 
