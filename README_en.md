@@ -1,6 +1,6 @@
 # Hackintosh-Dell-Inspiron-7580
 
-## 语言: English或[简体中文](README.md)
+## Language: English or [简体中文](README.md)
 
 ## opencore version 0.6.0
 
