@@ -354,8 +354,6 @@
 			<false/>
 			<key>ProvideCustomSlide</key>
 			<true/>
-			<key>ProvideMaxSlide</key>
-			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
 			<key>SetupVirtualMap</key>
@@ -372,14 +370,14 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
-				<key>layout-id</key>
-				<integer>77</integer>
 				<key>alc-delay</key>
 				<integer>500</integer>
 				<key>alc-device-id</key>
 				<data>cJ0AAA==</data>
 				<key>alc-vendor-id</key>
 				<data>hoAAAA==</data>
+				<key>layout-id</key>
+				<integer>77</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -1153,17 +1151,17 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<true/>
+			<false/>
 			<key>PickerAttributes</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
-			<false/>
+			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -1289,7 +1287,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
-				<data>Rg==</data>
+				<data>AEY=</data>
 				<key>boot-args</key>
 				<string>brcmfx-country=#a</string>
 				<key>run-efi-updater</key>
@@ -1399,17 +1397,17 @@
 		<key>Audio</key>
 		<dict>
 			<key>AudioCodec</key>
-			<integer>0</integer>
+			<integer>18</integer>
 			<key>AudioDevice</key>
-			<string></string>
+			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
 			<key>AudioOut</key>
 			<integer>0</integer>
 			<key>AudioSupport</key>
-			<false/>
+			<true/>
 			<key>MinimumVolume</key>
-			<integer>20</integer>
+			<integer>70</integer>
 			<key>PlayChime</key>
-			<false/>
+			<true/>
 			<key>VolumeAmplifier</key>
 			<integer>0</integer>
 		</dict>
@@ -1418,6 +1416,8 @@
 		<key>Drivers</key>
 		<array>
 			<string>ApfsDriverLoader.efi</string>
+			<string>AudioDxe.efi</string>
+			<string>OpenCanopy.efi</string>
 			<string>HFSPlus.efi</string>
 			<string>OpenRuntime.efi</string>
 		</array>
