@@ -1,4 +1,4 @@
-# Hackintosh-Dell-Inspiron-7580
+# Hackintosh-Dell-Inspiron-7580(Sorry, This repository will no longer maintained.)
 
 ## Language: English or [简体中文](README.md)
 
