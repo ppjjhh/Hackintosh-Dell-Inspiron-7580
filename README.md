@@ -1,4 +1,4 @@
-# 黑苹果-Dell-Inspiron-7580
+# 黑苹果-Dell-Inspiron-7580 （本人要考试，没时间，所以目前不再维护，非常抱歉）
 
 ## 语言: 简体中文或[English](README_en.md)
 
