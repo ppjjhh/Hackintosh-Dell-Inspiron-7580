@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>57</LogNumber>
-    <LogTimeStamp>02/17/2020 08:31:43</LogTimeStamp>
+    <LogNumber>98</LogNumber>
+    <LogTimeStamp>10/15/2020 15:08:23</LogTimeStamp>
     <ePSA_Data>
-      <Result>Abort</Result>
-      <ReturnCode>BOOT_SHUTDOWN</ReturnCode>
-      <DevicesTested>Memory, Hard Drive</DevicesTested>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
       <ePSAFullVersion>4306.29</ePSAFullVersion>
-      <ePSAInvocationCount>5</ePSAInvocationCount>
+      <ePSAInvocationCount>3</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
-      <ErrorCategory>NO_BOOT</ErrorCategory>
-      <ErrorMessage><![CDATA[No bootable devices found.
+      <ErrorCategory>BATTERY</ErrorCategory>
+      <ErrorMessage><![CDATA[WARNING: Battery is critically low.
 ]]></ErrorMessage>
+      <FRU_String><![CDATA[Unknown Battery]]></FRU_String>
       <SOS_Available>FALSE</SOS_Available>
       <TimeOutSeconds>0</TimeOutSeconds>
     </BIOS_Data>
