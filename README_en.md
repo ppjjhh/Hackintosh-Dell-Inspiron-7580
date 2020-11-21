@@ -2,18 +2,18 @@
 
 ## Language: English or [简体中文](README.md)
 
-## opencore version 0.6.0
+## opencore version 0.6.3
 
 ## macOS version 10.15.6
 
 ## Computer Info
 
-|    cpu    |    i5-8265u     |
-| :-------: | :-------------: |
-|    gpu    |     uhd620      |
-| Hard disk | Hikvision C2000 |
-|   audio   | realtak ALC 295 |
-|  network  |     DW1820a     |
+|    cpu    |         i5-8265u         |
+| :-------: | :----------------------: |
+|    gpu    |          uhd620          |
+| Hard disk |       Kioxia Rd10        |
+|   audio   |     realtak ALC 295      |
+|  network  | DW1820a(AirPods support) |
 
 ## Bios setting (Ignore it if your bios don't have these item)
 
@@ -39,7 +39,7 @@
 
 * uhd620
 * audio
-* hdmi (sometime it will cause restart when you Hot Swap)
+* hdmi (untested)
 * All usb and type-c (you can use this slot to charge your computer)
 * network (Wired network)
 * wifi (you must change the native wireless network adapter)
