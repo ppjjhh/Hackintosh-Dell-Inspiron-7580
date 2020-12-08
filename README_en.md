@@ -2,7 +2,7 @@
 
 ## Language: English or [简体中文](README.md)
 
-## opencore version 0.6.3
+## opencore version 0.6.4
 
 ## macOS version 10.15.6
 

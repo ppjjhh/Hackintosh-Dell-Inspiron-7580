@@ -2,7 +2,7 @@
 
 ## 语言: 简体中文或[English](README_en.md)
 
-## opencore 版本 0.6.3
+## opencore 版本 0.6.4
 
 ## macOS 版本 10.15.6
 
