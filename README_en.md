@@ -1,10 +1,10 @@
-# Hackintosh-Dell-Inspiron-7580(Sorry, This repository will no longer maintained.)
+# Hackintosh-Dell-Inspiron-7580
 
 ## Language: English or [简体中文](README.md)
 
-## opencore version 0.6.5
+## opencore version 0.7.0
 
-## macOS version 10.15.6
+## macOS version 11.4(Big Sur)
 
 ## Computer Info
 
@@ -69,33 +69,3 @@
 4. Type in **setup_var 0x5C3** again to confirm if it is succeed.  PS: It means you are succeed when the screen shows this sentence:  **offset 0x5C3 is 0x00**.
 
 5. Type in **exit** to restart your computer. 
-
-   ![Folder hierarchy](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/ScreenShot.jpeg)
-
-   ![Step 1](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/1.jpeg)
-
-   ![Step 2](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/2.jpeg)
-
-   ![Step 3](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/3.jpeg)
-
-   ![Step 4](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/4.jpeg)
-
-   ![Step 5](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/5.jpeg)
-
-   ![Step 6](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/6.jpeg)
-
-   ![Step 7](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/7.jpeg)
-
-   ![Step 8](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/8.jpeg)
-
-   ![Step 9](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/9.jpeg)
-
-   ![Step 10](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/10.jpeg)
-
-   ![Step 11](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/11.jpeg)
-
-   ![Step 12](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/12.jpeg)
-
-   ![Step 13](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/blob/master/image/13.jpeg)
-   
-   

@@ -1,10 +1,10 @@
-# 黑苹果-Dell-Inspiron-7580 （本人要考试，没时间，所以目前不再维护，非常抱歉）
+# 黑苹果-Dell-Inspiron-7580
 
 ## 语言: 简体中文或[English](README_en.md)
 
-## opencore 版本 0.6.5
+## opencore 版本 0.7.0
 
-## macOS 版本 10.15.6
+## macOS 版本 11.4(Big Sur)
 
 ## 笔记本信息
 
