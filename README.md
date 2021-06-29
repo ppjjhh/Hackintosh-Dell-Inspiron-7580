@@ -52,10 +52,10 @@
 ## 不正常工作
 * mx150 (笔记本的英伟达显卡基本无法驱动)
 * 睡眠 (这个东西有点复杂，本人电脑基本没怎么用这个功能，所以没管他) 
-* 这个acpi文件是我自己电脑的原生acpi，有些电脑可能用不了，你可以提取自己的试试
 
 ## 参考资料
 * https://blog.daliansky.net/ 
+* https://github.com/queensferryme/Hackintosh-Dell-7580
 * https://github.com/daliansky/Hackintosh
 
 ## 怎样禁用CFG
