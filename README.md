@@ -60,7 +60,7 @@
 
 ## 怎样禁用CFG
 
-1. 使用 bootx64.efi 启动你的电脑  (shell 压缩文件)
+1. 使用 bootx64.efi 启动你的电脑  (shell 压缩文件，https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/releases/tag/Shell)
 
 2. 输入 **setup_var 0x5C3** 检查CFG是否已被禁用 PS:  *0x01*=启用, *0x00*=禁用
 
