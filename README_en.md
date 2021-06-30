@@ -8,22 +8,22 @@
 
 ## Computer Info
 
-|    cpu    |         i5-8265u         |
-| :-------: | :----------------------: |
-|    gpu    |          uhd620          |
-| Hard disk |       Kioxia Rd10        |
-|   audio   |     realtak ALC 295      |
-|  network  | DW1820a(AirPods support) |
+|     cpu      |          i5-8265u          |
+| :----------: | :------------------------: |
+|     gpu      |           uhd620           |
+|  Hard disk   |        Kioxia Rd10         |
+|    audio     |      realtak ALC 295       |
+| network card | DW1820a(Bluetooth support) |
 
 ## Bios setting (Ignore it if your bios don't have these item)
 
-|               Disable                |
-| :----------------------------------: |
-|              Fast Boot               |
-| CFG Lock (MSR 0xE2 write protection) |
-|                 VT-d                 |
-|                 CSM                  |
-|              Intel SGX               |
+|                           Disable                            |
+| :----------------------------------------------------------: |
+|                          Fast Boot                           |
+| CFG Lock (MSR 0xE2 write protection) There is the method to unlock below this readme.  Editing the config.plist, if you haven't unlock. |
+|                             VT-d                             |
+|                             CSM                              |
+|                          Intel SGX                           |
 
 |         Enable          |
 | :---------------------: |
@@ -41,7 +41,7 @@
 * audio
 * hdmi (untested)
 * All usb and type-c (you can use this slot to charge your computer)
-* network (Wired network)
+* network (Wired network )
 * wifi (you must change the native wireless network adapter)
 * Trackpad
 * battery and power display
@@ -60,7 +60,7 @@
 
 ## How to Unlock CFG
 
-1. Use the bootx64.efi to boot your computer.
+1. Use the bootx64.efi to boot your computer. (https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/releases/tag/Shell)
 
 2. Type in **setup_var 0x5C3** to check the CFGLock status.   PS:  *0x01*=lock, *0x00*=unlock
 
