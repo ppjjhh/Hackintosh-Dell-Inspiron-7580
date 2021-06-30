@@ -20,7 +20,7 @@
 |               禁用                |
 | :----------------------------------: |
 |              Fast Boot               |
-| CFG Lock (MSR 0xE2 write protection) |
+| CFG Lock (MSR 0xE2 write protection) 文章末尾教程。挺重要，能解锁最好，不能解锁要自己修改config几个设置 |
 |                 VT-d                 |
 |                 CSM                  |
 |              Intel SGX               |
