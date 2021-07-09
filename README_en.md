@@ -2,7 +2,7 @@
 
 ## Language: English or [简体中文](README.md)
 
-## opencore version 0.7.0
+## opencore version 0.7.1  click the release to download
 
 ## macOS version 11.4(Big Sur)
 
