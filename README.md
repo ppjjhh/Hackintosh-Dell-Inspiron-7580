@@ -2,7 +2,7 @@
 
 ## 语言: 简体中文或[English](README_en.md)
 
-## opencore 版本 0.7.1 点击右边的release下载最新的
+## opencore 版本 0.7.1 点击右边的[release](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/releases)下载最新的
 
 ## macOS 版本 11.4(Big Sur)
 

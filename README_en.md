@@ -2,7 +2,7 @@
 
 ## Language: English or [简体中文](README.md)
 
-## opencore version 0.8.6  click the release to download
+## opencore version 0.8.6  click the [release](https://github.com/ppjjhh/Hackintosh-Dell-Inspiron-7580/releases) to download
 
 ## macOS version 11.4(Big Sur)
 
