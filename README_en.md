@@ -2,25 +2,25 @@
 
 ## Language: English or [简体中文](README.md)
 
-## opencore version 0.7.1  click the release to download
+## opencore version 0.8.6  click the release to download
 
 ## macOS version 11.4(Big Sur)
 
 ## Computer Info
 
-|     cpu      |          i5-8265u          |
-| :----------: | :------------------------: |
-|     gpu      |           uhd620           |
-|  Hard disk   |        Kioxia Rd10         |
-|    audio     |      realtak ALC 295       |
-| network card | DW1820a(Bluetooth support) |
+|     cpu      |          i5-8265u             |
+| :----------: | :---------------------------: |
+|     gpu      |           uhd620              |
+|  Hard disk   |        Kioxia Rd10            |
+|    audio     |      realtak ALC 295          |
+| network card | BCM94360Z3(Bluetooth support) |
 
-## Bios setting (Ignore it if your bios don't have these item)
+## Bios setting (Ignore it if your bios don't have these items)
 
 |                           Disable                            |
 | :----------------------------------------------------------: |
 |                          Fast Boot                           |
-| CFG Lock (MSR 0xE2 write protection) There is the method to unlock below this readme.  Editing the config.plist, if you haven't unlock. |
+| CFG Lock (MSR 0xE2 write protection) There is a method to unlock at the end of this readme.  Editing a few items of config.plist, if you haven't unlocked. |
 |                             VT-d                             |
 |                             CSM                              |
 |                          Intel SGX                           |
@@ -40,9 +40,10 @@
 * uhd620
 * audio
 * hdmi (untested)
-* All usb and type-c (you can use this slot to charge your computer)
+* All usb and type-c (you are able to use this slot to charge your computer)
 * network (Wired network )
-* wifi (you must change the native wireless network adapter)
+* wifi (you must change the native wireless network adapter, BCM94360Z3 is recommended.)
+* bluetooth (you must change the native wireless network adapter, BCM94360Z3 is recommended.)
 * Trackpad
 * battery and power display
 * camera
